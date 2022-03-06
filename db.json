@@ -1,0 +1,86 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "kenR6",
+      "lastName": "ken",
+      "email": "ken@gmail.com",
+      "mobile": "11466",
+      "salary": "$5555"
+    },
+    {
+      "id": 2,
+      "firstName": "Nen",
+      "lastName": "Ben",
+      "email": "Nen@gmail.com",
+      "mobile": "9999999",
+      "salary": "$42000"
+    },
+    {
+      "id": 3,
+      "firstName": "Len",
+      "lastName": "Zen@",
+      "email": "Len@gmail.com",
+      "mobile": "0986259693",
+      "salary": "12.500.0000VNĐ"
+    },
+    {
+      "id": 4,
+      "firstName": "zen",
+      "lastName": "gen",
+      "email": "Zen@gmail.com",
+      "mobile": "11466",
+      "salary": "$55557"
+    },
+    {
+      "id": 5,
+      "firstName": "Zen123",
+      "lastName": "Zen@",
+      "email": "Zen@gmail.com",
+      "mobile": "0986259693",
+      "salary": "800.0000VNĐ"
+    },
+    {
+      "id": 6,
+      "firstName": "Hai@gmail.com",
+      "lastName": "Hai@gmail.com",
+      "email": "Hai@gmail.com",
+      "mobile": "0123456789",
+      "salary": "$1200033"
+    },
+    {
+      "id": 7,
+      "firstName": "Nguyen",
+      "lastName": "Nguyen",
+      "email": "Nguyen@gmail.com",
+      "mobile": "0202020202",
+      "salary": "$9999"
+    }
+  ],
+  "RegisterAdmin": [
+    {
+      "fullname": "KanhManh",
+      "email": "Manh@gmail.com",
+      "password": "123",
+      "mobile": 3123546513,
+      "id": 1
+    },
+    {
+      "fullname": "HaiNguyen",
+      "email": "NguyenZen@gmail.com",
+      "password": "123",
+      "mobile": 121346513,
+      "id": 2
+    },
+    {
+      "fullname": "Hai",
+      "email": "Hai222@gmail.com",
+      "password": "123",
+      "mobile": 1231313213,
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
